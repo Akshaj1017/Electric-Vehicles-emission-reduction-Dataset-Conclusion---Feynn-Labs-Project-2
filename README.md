@@ -2,7 +2,8 @@
 
 ## Conclusion 1:
 
-![image]("C:\Users\User\OneDrive - ABES\Desktop\Screenshot 2023-04-26 194248.png")
+![image]
+("C:\Users\User\OneDrive - ABES\Desktop\Screenshot 2023-04-26 194248.png")
 
 
 "annual_ghg_emissions_reductions_mt_co2e" refers to the amount of annual greenhouse gas (GHG) emissions that have been reduced or avoided, measured in metric tons of carbon dioxide equivalent (MT CO2e). This metric is commonly used to track progress in reducing GHG emissions, which contribute to climate change. The term "CO2e" refers to the amount of CO2 that would have the same warming effect as the combination of all other GHGs, such as methane and nitrous oxide.
